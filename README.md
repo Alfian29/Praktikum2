@@ -1,5 +1,4 @@
-# Praktikum2
-#Modul3
+# Modul 3
 Latihan1
 ![alt text](https://github.com/Alfian29/Praktikum2/blob/master/SSModul3/Screenshot%20(24).png?raw=true)
 Latihan2
@@ -17,7 +16,7 @@ Tugas
 ![alt text](https://github.com/Alfian29/Praktikum2/blob/master/Tugas/Screenshot%20(22).png?raw=true)
 ![alt text](https://github.com/Alfian29/Praktikum2/blob/master/Tugas/Screenshot%20(23).png?raw=true)
 
-#Modul4
+# Modul 4
 For
 ![alt text](https://github.com/Alfian29/Praktikum2/blob/master/SSModul4/Screenshot%20(30).png?raw=true)
 ForEach
